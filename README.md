@@ -1,2 +1,3 @@
 # POWERBI_cerveceria
 Anexo un estudio de mercado realizado para una cerveceria
+Aqui el Link: https://app.powerbi.com/view?r=eyJrIjoiNDdmYzVjNGItNTEzYi00ZmU1LTg5ZjUtZmE1NzU0MzViYzcxIiwidCI6IjZhZWQ4MzNjLTE4MzYtNGEzMS04OWI1LTg5OWM5M2FkNzBmZSIsImMiOjR9
